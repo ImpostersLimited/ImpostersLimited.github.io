@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["M6SCU692NK.ImpostersLimited.WakeStorm"],
+        "components": [
+          {
+            "/": "/wakestorm/stopAlarm",
+            "comment": "Only allow stopAlarm link to open WakeStorm app"
+          }
+        ]
+      }
+    ]
+  }
+}
