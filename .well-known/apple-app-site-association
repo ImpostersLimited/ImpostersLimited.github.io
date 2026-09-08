@@ -10,6 +10,15 @@
             "comment": "Only allow stopAlarm link to open WakeStorm app"
           }
         ]
+      },
+      {
+        "appIDs": ["ZL7Y4RJ3UA.ImpostersLimited.DailyLedger"],
+        "components": [
+          {
+            "/": "/spendcap/plaid/oauth",
+            "comment": "Return Plaid OAuth sessions to SpendCap"
+          }
+        ]
       }
     ]
   }
